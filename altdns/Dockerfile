@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Anshuman Bhartiya <anshuman.bhartiya@gmail.com>
+MAINTAINER Brendan Abbott <rabidang3ls@gmail.com>
 
 # Doing the usual here
 RUN apt-get -y update && \
